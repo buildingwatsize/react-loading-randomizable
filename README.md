@@ -73,7 +73,7 @@ FAQ 2: **List of add-on features.**
 
 1. Overlay screen (black screen with 70% transparency)
 2. Randomly render a loading element, but you can also be specific with your favorite one.
-3. Supported React 18.
+3. Supported React 19.
 4. TypeScript on the new source code; leave JavaScript on the loading element (from the library) with no changes.
 
 FAQ 3: **I want to ask you more.**

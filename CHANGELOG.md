@@ -2,6 +2,12 @@
 
 ## Version
 
+### [v1.2.0] - `2025-07-21`
+
+- Updated dependencies
+- Migrated ESLint to flat config (ESLint 10)
+- Pinned TypeScript to 6.x (ecosystem compatibility)
+
 ### [v1.1.3] - `2025-09-15`
 
 - Updated dependencies
@@ -59,6 +65,7 @@
 
 - Initialized Project
 
+[v1.2.0]: https://github.com/buildingwatsize/react-loading-randomizable/releases/tag/v1.2.0
 [v1.1.3]: https://github.com/buildingwatsize/react-loading-randomizable/releases/tag/v1.1.3
 [v1.1.2]: https://github.com/buildingwatsize/react-loading-randomizable/releases/tag/v1.1.2
 [v1.1.1]: https://github.com/buildingwatsize/react-loading-randomizable/releases/tag/v1.1.1

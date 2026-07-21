@@ -56,12 +56,8 @@ export const OverlayLoading = ({
 }: OverlayLoadingProps): React.ReactNode => {
   if (!active) return null;
 
-  let loadingComponentIdx = 0;
-  if (number >= 0) {
-    loadingComponentIdx = ~~number;
-  } else {
-    loadingComponentIdx = randomIntFunc(30) | 0;
-  }
+  const loadingComponentIdx =
+    number >= 0 ? ~~number : randomIntFunc(30) | 0;
 
   return (
     <div
